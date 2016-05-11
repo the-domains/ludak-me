@@ -1,0 +1,28 @@
+name: ludak.me
+favicon: null
+layout_spectrum: 0.05665578949265182
+typography_spectrum: 0.40835606795735657
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6690950994379818
+  lightness: 0.672376464586705
+  saturation: 0.8940285304561257
+  rhythmicContrast: 0.5045834875199944
+purpose: []
