@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When life gives you lemons, go to Ecuador! :P I stayed there for nine days, two days in the capital city Quito, two days in Latacunga to climb Mt. Cotopaxi, another couple of days in the adventure capital Banos, and rest of the time back in Quito. Community hostel in Quito has the best atmosphere for travelers with great food, awesome staff, and fellow wanderers who have been traveling for months. The view from the top of Mt. Cotopaxi was breathtaking. I reached there right at the time of sunrise. Banos offered biking trails with views of misty mountains, and rushing water.'
-datePublished: '2016-05-11T03:36:05.731Z'
-dateModified: '2016-05-11T03:36:05.239Z'
+datePublished: '2016-05-11T03:39:03.779Z'
+dateModified: '2016-05-11T03:39:03.468Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-11-when-life-gives-you-lemons-go-to-ecuador-p-i-stayed-there.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-11-when-life-gives-you-lemons-go-to-ecuador-p-i-stayed-there.md
 url: when-life-gives-you-lemons-go-to-ecuador-p-i-stayed-there/index.html
 _type: Article
 
