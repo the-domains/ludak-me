@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ludak.me]]></title>
         <description><![CDATA[ludak.me]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ludak-me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 01:48:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 11 May 2016 01:57:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ludak-me/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ecuador]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/112da968-38c3-4266-96ac-6d26fec5d82c.jpg" alt="Strolling in Quito! I reached here at 2 PM. It is hot out here. My definition of hot has changed a lot in last few years. To be precise, it is between 20 and 25 degrees Celcius. I took a taxi from airport to Quito. I got to witness the Mount Cotopaxi on the way. It looks huge. I wonder how is the view from its top. I am staying in Quito for two nights. People here are a bit reddish." title="" />]]></description>
+            <link>https://thegrid.ai/ludak-me/ecuador/index.html</link>
+            <guid isPermaLink="false">eff6c522-dd39-4f0b-ae71-ba4b59760b57</guid>
+            <pubDate>Wed, 11 May 2016 01:57:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b19cc0e-3b5d-473b-aabd-a2629ac8da75.jpg">]]></description>
-            <link>undefinedtest/index.html</link>
+            <link>https://thegrid.ai/ludak-me/test/index.html</link>
             <guid isPermaLink="false">737bbe26-7de2-41ff-8658-baaba0c1c050</guid>
             <pubDate>Wed, 11 May 2016 01:48:42 GMT</pubDate>
         </item>
