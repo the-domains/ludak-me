@@ -1,7 +1,7 @@
 name: ludak.me
 favicon: null
-layout_spectrum: 0.05665578949265182
-typography_spectrum: 0.40835606795735657
+layout_spectrum: 0.1635
+typography_spectrum: 0.29985
 cta:
   domain: null
   bucket: null
