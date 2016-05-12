@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When life gives you lemons, go to Ecuador! :P I stayed there for nine days, two days in the capital city Quito, two days in Latacunga to climb Mt. Cotopaxi, another couple of days in the adventure capital Banos, and rest of the time back in Quito. Community hostel in Quito has the best atmosphere for travelers with great food, awesome staff, and fellow wanderers who have been traveling for months. The view from the top of Mt. Cotopaxi was breathtaking. I reached there right at the time of sunrise. Banos offered biking trails with views of misty mountains, and rushing water.'
-datePublished: '2016-05-12T04:19:23.765Z'
-dateModified: '2016-05-12T04:19:21.843Z'
+datePublished: '2016-05-12T04:22:50.160Z'
+dateModified: '2016-05-12T04:22:30.657Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-when-life-gives-you-lemons-go-to-ecuador-p-i-stayed-there.md
@@ -22,6 +22,7 @@ _type: Article
 
 ---
 When life gives you lemons, go to Ecuador! :P I stayed there for nine days, two days in the capital city Quito, two days in Latacunga to climb Mt. Cotopaxi, another couple of days in the adventure capital Banos, and rest of the time back in Quito. Community hostel in Quito has the best atmosphere for travelers with great food, awesome staff, and fellow wanderers who have been traveling for months. The view from the top of Mt. Cotopaxi was breathtaking. I reached there right at the time of sunrise. Banos offered biking trails with views of misty mountains, and rushing water.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f44fe6dc-ded6-43ee-9cf5-485bb5c8c866.jpg)
 
 Strolling in Quito! I reached here at 2 PM. It is hot out here. My definition of hot has changed a lot in last few years. To be precise, it is between 20 and 25 degrees Celcius. I took a taxi from airport to Quito. I got to witness the Mount Cotopaxi on the way. It looks huge. I wonder how is the view from its top. I am staying in Quito for two nights. People here are a bit reddish.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e39e561-a21b-44b0-9574-a66fc0d1acef.jpg)
