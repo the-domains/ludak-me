@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'When life gives you lemons, go to Ecuador! :P I stayed there for nine days, two days in the capital city Quito, two days in Latacunga to climb Mt. Cotopaxi, another couple of days in the adventure capital Banos, and rest of the time back in Quito. Community hostel in Quito has the best atmosphere for travelers with great food, awesome staff, and fellow wanderers who have been traveling for months. The view from the top of Mt. Cotopaxi was breathtaking. I reached there right at the time of sunrise. Banos offered biking trails with views of misty mountains, and rushing water.'
-datePublished: '2016-05-11T03:56:21.600Z'
-dateModified: '2016-05-11T03:56:20.588Z'
+datePublished: '2016-05-12T04:09:29.483Z'
+dateModified: '2016-05-12T04:09:29.015Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-11-when-life-gives-you-lemons-go-to-ecuador-p-i-stayed-there.md
@@ -37,3 +37,24 @@ We are checking out the street food in Ecuador led by Ovi, Eduardo, and Marco. C
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53789137-8c1e-496f-843c-a3aa64e4db7c.jpg)
 
 I got four of the cakes on the left with the curry poured over them. It tastes really good. I shared it with one other person. In the afternoon, I had lunch at the Mercado Central. I pointed at few things at the shop, and the lady gave me something to eat. It was a potato and chicken soup with a boiled egg and rice. I loved it.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7191703-0ed0-4555-92b0-9566c87af783.jpg)
+
+And everyone is busy eating while we walk to the next food joint!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91ab2016-eb7d-45b4-b26f-4fb80389de38.jpg)
+
+Moving on to the next shop. Chicken skewers. They smell good. I am gonna go for Pincho, skewers on the left side. A piece of sausage, a small potato, green peppers, and a piece of cooked banana are on the skewers.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c9ed5bb-c1e9-4ffc-b36e-ce11e89625aa.jpg)
+
+The building on the left is a Church. Quito seems predominantly Catholic. In addition to numerous churches, there is a Cross on the top of most hills. The city is lighted up at night with the sleepless tourists. I am told to take a cab for moving around. "It is dangerous to walk alone on the streets", Hannah advised me. "What kind of dangerous? Will they take my stuff or beat me up?", I asked. I am with a large group. It doesn't matter at the moment.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/38c5d0b0-a553-4d57-8ca8-7c7659f49063.jpg)
+
+The sound of a violin. Every time I hear it, I am reminded of the violin gathering dust at my home.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/293a6f00-d11f-4b8f-98b3-7bf24e827de2.jpg)
+
+Marco and Ovidio introduced me to a variety of Ecuadorian food. I feel full. :P
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b99b8d8a-7ddc-4dde-a12e-c961827fe39b.jpg)
+
+Singing!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13e2c262-02b9-42ab-a3a7-7484470fd59e.jpg)
+
+A hot liquor made out of fruit juice, and alcohol (probably Whisky). I don't know its name. The group stopped by a restaurant at La Ronda where we tried that. I am a bit tired, and feel sleepy. Time to head back to the hostel.
